@@ -27,12 +27,16 @@ I have finished the courses "Developing Web Applications with JavaScript" and "D
   - HTML
   - CSS
   - JavaScript
+  - SCSS 
+  - SASS
+  - BEM
 
 - Frameworks :
 
   - jQuery
   - bootstrap
   - materialize
+  - Laravel 8
 
 - CVS :
   - Git
